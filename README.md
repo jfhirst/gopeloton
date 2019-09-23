@@ -18,9 +18,12 @@ I only use a tiny bit of the data that gets returned but I have included the ful
 
 I am almost certain that this code can be cleaned up "A LOT" so feel free to enhance it.
 
-#H1 To run
+# To run
 
-Update the user and pasword fields:   `pelotonID := "fred" `   and `pelotonPass := "abc123"`
+Update the user and password fields:  
+`pelotonID := "fred" `   
+and 
+`pelotonPass := "abc123"`
 
 then:
 
