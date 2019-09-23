@@ -17,6 +17,14 @@ As I have only used it in September I suspect I will need to do some further wor
 I only use a tiny bit of the data that gets returned but I have included the full structs in pelotonstructs.go as there may be something else there that is of interest.
 
 I am almost certain that this code can be cleaned up "A LOT" so feel free to enhance it.
+
+#H1 To run
+
+Update the user and pasword fields:   `pelotonID := "fred" `   and `pelotonPass := "abc123"`
+
+then:
+
+` go run main.go peletonstructs.go`
   
   
 
