@@ -1,5 +1,5 @@
 # gopeloton
-Just some noddy goland stuff to grab onepeloton data
+Just some basic golang stuff to grab onepeloton data
 
 As a newbie go programmer I wanted to see if I could do something useful.   My starting point was the github api doodles from 
 https://github.com/geudrik/peloton-api/blob/master/API_DOCS.md  
